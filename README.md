@@ -14,7 +14,7 @@
 - The top field is for the topic of the note, the bottom field is for the body of the note
 - Once these fields detect text a save note button will appear in the top right; pressing this button will save the note
 - On the left side of the notes page are all saved notes. Clicking on any note will display its content in the right window.
-- https://notes12-cdd234461d42.herokuapp.com/
+- 
 ![Notes homepage](<Develop/Assets/Express Notes.png>)
 
 ## Credits
